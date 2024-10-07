@@ -2,7 +2,7 @@
 
 Um website de aluguel que oferece uma interface amigável para usuários alugarem veículos. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 
-![Preview do Website](https://gianlb.github.io/rental-website/images/screenshot.png) <!-- Adicione um link para uma captura de tela do seu projeto -->
+![Preview do Website](https://imgur.com/euo4Sqe) <!-- Adicione um link para uma captura de tela do seu projeto -->
 
 ## Funcionalidades
 
